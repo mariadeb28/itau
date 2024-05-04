@@ -1,3 +1,18 @@
+<h1>Page Itaú 📱🏦</h1>
+<br>
+<h1>Sobre 📝</h1>
+<p>Essa é uma page da plataforma do banco Itáu. No qual o usuário acessa podendo efeuar o seu Login, verificar os demais serviços, efetuar o download nas versões Apple Store ou Google Play, além de visualizar os demais serviços que o banco Itaú oferece para seus clientes.</p>
+<br>
+<h1>Tecnologia ⛏️</h1>
+<p>Esse projeto foi feito totalmente pelo React, que é uma biblioteca Front-End de JavaScript. Utilizei conceitos de Components, Props e o Yarn que é um gerenciamento de comandos.</p>
+<br>
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
